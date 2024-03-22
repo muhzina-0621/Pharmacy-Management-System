@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module pharmacy {
+	requires java.desktop;
+}
